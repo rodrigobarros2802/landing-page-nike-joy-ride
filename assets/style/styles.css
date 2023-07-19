@@ -4,4 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container {
+    background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
