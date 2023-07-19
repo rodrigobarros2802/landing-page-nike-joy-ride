@@ -48,7 +48,6 @@
     align-items: center;
     font-size: 24px;
     font-weight: 700;
-    
 }
 
 .menu .navbar li {
@@ -62,6 +61,11 @@
     font-style: normal;
     line-height: normal;
     cursor: pointer;
+}
+
+.menu .navbar a:hover {
+    color: #FC6B3F;
+    text-decoration: underline;
 }
 
 .content {
@@ -112,3 +116,19 @@
     cursor: pointer;
 }
 
+.btn:hover {
+    background: #933025;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+footer img {
+    width: 100%;
+    height: 30px;
+}
