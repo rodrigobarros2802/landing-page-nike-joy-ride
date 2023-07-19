@@ -16,7 +16,7 @@
     align-items: center;
 }
 
-.container .menu {
+.menu {
     position: absolute;
     top: 0;
     left: 0;
@@ -24,7 +24,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 50px;
+    padding: 20px 100px;
 }
 
 .menu .logo {
@@ -60,4 +60,27 @@
     font-style: normal;
     line-height: normal;
     cursor: pointer;
+}
+
+.content {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 100px;
+}
+
+.content .contentBox {
+    position: relative;
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentBox h1 {
+    font-size: 55px;
+    font-weight: 800;
+    color: #000;
+    line-height: normal;
 }
