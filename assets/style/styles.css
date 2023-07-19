@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;300;400;500;600;700;800;900;1000&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@100;200;300;400;500;600;700;800;900;1000&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -94,3 +96,19 @@
     margin-top: 30px;
     gap: 30px;
 }
+
+.btn {
+    position: absolute;
+    background: #FC6B3F;
+    bottom: 100px;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
