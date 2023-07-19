@@ -32,8 +32,32 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .menu .logo img {
     width: 100px;
+}
+
+.menu .navbar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+.menu .navbar li {
+    list-style: none;
+}
+
+.menu .navbar a {
+    text-decoration: none;
+    margin-left: 40px;
+    color: #000;
+    font-style: normal;
+    line-height: normal;
+    cursor: pointer;
 }
