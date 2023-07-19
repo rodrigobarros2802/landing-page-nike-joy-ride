@@ -24,4 +24,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px 50px;
+}
+
+.menu .logo {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .logo img {
+    width: 100px;
 }
