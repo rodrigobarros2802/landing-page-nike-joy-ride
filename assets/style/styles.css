@@ -185,19 +185,14 @@ footer img {
     padding: 20px 20px;
     box-shadow: 5px 5px 10px 5px rgb(236, 236, 236);
     border-bottom: 2px solid #fc6b3fcc;
-}
-
-.detailsInfo img {
-    position: relative;
+    text-align: center;
 }
 
 .detailsInfo h4 {
-    text-align: center;
     font-weight: 600;
 }
 
 .detailsInfo p {
-    text-align: center;
     font-size: 14px;
 }
 
