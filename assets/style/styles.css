@@ -120,19 +120,6 @@
 .btn:hover {
     background: #933025;
 }
-
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-footer img {
-    width: 100%;
-    height: 30px;
-}
 /*Estilização Primeiro Box*/
 
 /*Estilização Segundo Box*/
@@ -196,4 +183,10 @@ footer img {
     font-size: 14px;
 }
 
+
+.footerBox2 {
+    position: absolute;
+    width: 100%;
+}
+/*Estilização Segundo Box*/
 
