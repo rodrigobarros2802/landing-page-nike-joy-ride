@@ -165,4 +165,23 @@ footer img {
     color: #FC6B3F;
 }
 
+.details {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.details .detailsInfo {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background: red;
+    margin-left: 20px;
+}
+
 
