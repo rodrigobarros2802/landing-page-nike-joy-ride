@@ -154,4 +154,15 @@ footer img {
     width: 350px;
 }
 
+.contentInfoBox h3 {
+    margin-top: 20px;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 600;
+}
+
+.contentInfoBox h3 span {
+    color: #FC6B3F;
+}
+
 
