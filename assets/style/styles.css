@@ -184,7 +184,7 @@ footer img {
     margin-left: 20px;
     padding: 20px 20px;
     box-shadow: 5px 5px 10px 5px rgb(236, 236, 236);
-    border-bottom: #FC6B3F;
+    border-bottom: 2px solid #fc6b3fcc;
 }
 
 .detailsInfo img {
