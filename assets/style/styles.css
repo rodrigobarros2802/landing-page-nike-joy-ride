@@ -243,6 +243,13 @@
     font-weight: 500;
 }
 
+.depoiments-athlets h4 span {
+    color: #FC6B3F;
+    font-family: 'Dm sans', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+}
+
 .depoiments-athlets p {
     color: #727272;
     font-weight: 700;
