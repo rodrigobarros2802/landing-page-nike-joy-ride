@@ -126,6 +126,7 @@
 .contentInfo {
     background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
     width: 100%;
+    
 }
 
 .contentInfoBox {
@@ -189,4 +190,17 @@
     width: 100%;
 }
 /*Estilização Segundo Box*/
+
+/*Estilização Terceiro Box*/
+.depoiments {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 50vh;
+    background: #FFF6DA;
+    margin-top: 400px;
+    text-align: center;
+}
 
