@@ -198,7 +198,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    min-height: 50vh;
+    min-height: 100vh;
     background: #FFF6DA;
     margin-top: 400px;
     text-align: center;
@@ -218,3 +218,17 @@
     color: #FC6B3F;
 }
 
+.depoimentsBox {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.depoimentsBox .depoiments-athlets {
+    width: 600px;
+    height: 300px;
+    background: #fff;
+    margin-left: 70px;
+}
