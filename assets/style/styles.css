@@ -204,3 +204,16 @@
     text-align: center;
 }
 
+.depoimentsImg img {
+    margin-bottom: 10px;
+}
+
+.depoimentsImg h4 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.depoimentsImg h4 span {
+    color: #FC6B3F;
+}
+
