@@ -116,10 +116,6 @@
     border-radius: 10px;
     cursor: pointer;
 }
-
-.btn:hover {
-    background: #933025;
-}
 /*Estilização Primeiro Box*/
 
 /*Estilização Segundo Box*/
@@ -270,3 +266,16 @@
     margin-top: 80px;
 }
 
+.addCart a {
+    background: #FC6B3F;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
