@@ -356,4 +356,9 @@
         width: 320px;
         margin-top: 50px;
     }
+
+    .btn {
+        position: absolute;
+        bottom: 40px;
+    }
 }
