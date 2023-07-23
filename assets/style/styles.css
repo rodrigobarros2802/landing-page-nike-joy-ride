@@ -337,3 +337,8 @@
 /*Rodapé*/
 
 /*Responsividade*/
+@media (max-width: 991px) {
+    .menu {
+        padding: 20px 40px;
+    }
+}
