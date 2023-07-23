@@ -122,7 +122,6 @@
 .contentInfo {
     background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
     width: 100%;
-    
 }
 
 .contentInfoBox {
@@ -194,7 +193,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    min-height: 100vh;
+    min-height: 200vh;
     background: #FFF6DA;
     margin-top: 400px;
     text-align: center;
@@ -284,6 +283,8 @@
     margin-top: 200px;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    
 }
 
 .contactBox img {
@@ -301,6 +302,7 @@
 }
 
 .contactBox a {
+    position: absolute;
     color: #fff;
     background: #FC6B3F;
     font-size: 20px;
@@ -308,6 +310,7 @@
     text-decoration: none;
     padding: 15px 80px;
     border-radius: 10px;
+    margin-top: 50px;
 }
 
 .contactBox i {
