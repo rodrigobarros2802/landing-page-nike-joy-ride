@@ -382,5 +382,25 @@
     .details .detailsInfo {
         margin: 30px;
     }
-    
+
+    .depoimentsBox {
+        flex-direction: column;
+    }
+
+    .depoimentsBox .depoiments-athlets {
+        width: 530px;
+        height: 263px;
+        margin-left: 0px;
+        margin: 20px 0;
+        padding: 10px 20px;
+    }
+
+    .depoiments-athlets p {
+        bottom: 40px;
+    }
+
+    .addCart img {
+        width: 150px;
+    }
+
 }
