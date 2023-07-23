@@ -341,4 +341,15 @@
     .menu {
         padding: 20px 40px;
     }
+
+    .content {
+        padding: 0px 40px;
+        flex-direction: column;
+    }
+
+    .contentBox h1 {
+        font-size: 40px;
+        margin-top: 50px;
+    }    
+    
 }
