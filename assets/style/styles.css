@@ -345,6 +345,7 @@
     .content {
         padding: 0px 40px;
         flex-direction: column;
+        margin: 0;
     }
 
     .contentBox h1 {
