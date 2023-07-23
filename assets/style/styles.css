@@ -303,7 +303,13 @@
 .contactBox a {
     color: #fff;
     background: #FC6B3F;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Bebas Neue', sans-serif;
     text-decoration: none;
+    padding: 15px 80px;
+    border-radius: 10px;
+}
+
+.contactBox i {
+    font-size: 30px;
 }
