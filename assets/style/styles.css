@@ -374,6 +374,7 @@
 
     .depoiments {
         margin-top: 925px;
+        min-height: 160vh;
     }
 
     .details {
