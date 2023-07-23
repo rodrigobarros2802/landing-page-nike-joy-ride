@@ -351,5 +351,9 @@
         font-size: 40px;
         margin-top: 50px;
     }    
-    
+
+    .tenis img {
+        width: 320px;
+        margin-top: 50px;
+    }
 }
