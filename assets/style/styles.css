@@ -403,4 +403,8 @@
         width: 150px;
     }
 
+    .addCart a {
+        padding: 15px 10px;
+    }
+
 }
