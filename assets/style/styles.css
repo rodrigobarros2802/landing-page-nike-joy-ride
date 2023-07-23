@@ -361,4 +361,13 @@
         position: absolute;
         bottom: 40px;
     }
+
+    .contentInfoBox img {
+        width: 300px;
+    }
+
+    .contentInfoBox h3 {
+        margin-top: 30px;
+        font-size: 1em;
+    }
 }
