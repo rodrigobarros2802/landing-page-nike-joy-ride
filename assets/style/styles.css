@@ -407,4 +407,22 @@
         padding: 15px 10px;
     }
 
+    .contactBox {
+        margin-top: 100px;
+    }
+
+    .contactBox p {
+        font-size: 15px;
+    }
+
+    .contactBox a {
+        padding: 15px 15px;
+    }
+
+    .rodape {
+        justify-content: center;
+        text-align: center;
+        padding: 0px 0px;
+    }
+
 }
