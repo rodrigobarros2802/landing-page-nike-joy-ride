@@ -299,3 +299,11 @@
     font-weight: 500;
     margin-top: 10px;
 }
+
+.contactBox a {
+    color: #fff;
+    background: #FC6B3F;
+    font-size: 24px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: none;
+}
