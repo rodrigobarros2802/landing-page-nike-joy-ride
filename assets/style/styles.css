@@ -370,4 +370,17 @@
         margin-top: 30px;
         font-size: 1em;
     }
+
+    .depoiments {
+        margin-top: 925px;
+    }
+
+    .details {
+        flex-direction: column;
+    }
+
+    .details .detailsInfo {
+        margin: 30px;
+    }
+    
 }
