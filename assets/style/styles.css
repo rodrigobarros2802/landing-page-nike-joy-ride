@@ -35,7 +35,23 @@
     padding: 40px 100px;
 }
 
-.menu
+.menu a {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar li {
+    list-style: none;
+}
 
 
 
