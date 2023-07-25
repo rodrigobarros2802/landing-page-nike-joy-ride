@@ -101,8 +101,9 @@
 
 .btn {
     position: absolute;
-    bottom: 150px;
-    
+    bottom: 200px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .btn a {
