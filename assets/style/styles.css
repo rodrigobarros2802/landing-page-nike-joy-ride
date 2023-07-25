@@ -9,7 +9,9 @@
     font-family: 'DM Sans', sans-serif;
 }
 
+
 /*Estilização Primeiro Box*/
+/*
 .container {
     background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
     width: 100%;
@@ -119,6 +121,7 @@
 /*Estilização Primeiro Box*/
 
 /*Estilização Segundo Box*/
+/*
 .contentInfo {
     background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
     width: 100%;
@@ -187,6 +190,7 @@
 /*Estilização Segundo Box*/
 
 /*Estilização Terceiro Box*/
+/*
 .depoiments {
     position: absolute;
     display: flex;
@@ -317,6 +321,7 @@
 /*Estilização Terceiro Box*/
 
 /*Rodapé*/
+/*
 .rodape {
     position: absolute;
     display: flex;
@@ -337,6 +342,7 @@
 /*Rodapé*/
 
 /*Responsividade*/
+/*
 @media (max-width: 991px) {
     .menu {
         padding: 20px 40px;
