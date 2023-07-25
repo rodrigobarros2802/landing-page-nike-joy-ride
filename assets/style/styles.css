@@ -21,7 +21,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /*background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);*/    
+    background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);*/    
 }
 
 .menu {
@@ -52,6 +52,20 @@
 .navbar li {
     list-style: none;
 }
+
+.navbar li a {
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #111;
+}
+
+.navbar li a:hover {
+    color: #FC6B3F;
+}
+
+
 
 
 
