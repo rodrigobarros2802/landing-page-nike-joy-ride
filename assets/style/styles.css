@@ -29,3 +29,19 @@
     align-items: center;
     padding: 40px 100px;
 }
+
+.cabecalho img {
+    position: relative;
+    width: 130px;
+}
+
+.cabecalho ul {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cabecalho li {
+    list-style: none;
+}
