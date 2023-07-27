@@ -37,4 +37,9 @@ section {
 .text-box h1 {
     font-size: 3.5em;
     font-weight: 800;
+    text-align: center;
+}
+
+.text-box .circle {
+    margin: 30px 0;
 }
