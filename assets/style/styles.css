@@ -53,3 +53,7 @@
     font-weight: 800;
     font-size: 22px;
 }
+
+.cabecalho li a:hover {
+    color: #FC6B3F;
+}
