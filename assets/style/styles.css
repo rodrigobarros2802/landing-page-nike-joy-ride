@@ -48,3 +48,15 @@ section {
     position: relative;
     margin-inline: 20px;
 }
+
+.text-box a {
+    background: #FC6B3F;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
