@@ -43,3 +43,8 @@ section {
 .text-box .circle {
     margin: 30px 0;
 }
+
+.circle img {
+    position: relative;
+    margin-inline: 20px;
+}
