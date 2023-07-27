@@ -45,3 +45,11 @@
 .cabecalho li {
     list-style: none;
 }
+
+.cabecalho li a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 800;
+    font-size: 22px;
+}
