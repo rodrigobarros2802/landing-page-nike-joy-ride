@@ -9,3 +9,32 @@
     font-family: 'DM Sans', sans-serif;
 }
 
+section {
+    padding: 0 100px;
+}
+
+.banner {
+    background: linear-gradient(180deg, #FFF6DA 30.21%, rgba(255, 246, 218, 0.00) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.text-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 600px;
+    text-align: center;
+}
+
+.text-box h1 {
+    font-size: 3.5em;
+    font-weight: 800;
+}
