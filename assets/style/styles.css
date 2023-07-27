@@ -103,3 +103,24 @@
     width: 100%;
     padding: 0 100px;
 }
+
+.conteudo-btn {
+    position: absolute;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FC6B3F;
+    padding: 15px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.conteudo-btn-box a {
+    color: #fff;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+}
