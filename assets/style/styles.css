@@ -47,7 +47,7 @@
 }
 
 .cabecalho li a {
-    color: #333;
+    color: #111;
     text-decoration: none;
     margin-left: 20px;
     font-weight: 800;
@@ -57,3 +57,25 @@
 .cabecalho li a:hover {
     color: #FC6B3F;
 }
+
+.conteudo-box {
+    position: absolute;
+    width: 100%;
+    padding: 0 100px;
+}
+
+.conteudo-box .conteudo-texto {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 600px;
+    text-align: center;
+}
+
+.conteudo-texto {
+    color: #111;
+    font-weight: 800;
+    font-size: 2.3em;
+}
+
