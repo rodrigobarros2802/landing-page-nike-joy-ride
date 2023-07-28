@@ -9,6 +9,19 @@
     font-family: 'DM Sans', sans-serif;
 }
 
+header {
+    padding: 40px 100px;
+}
+
+.cabecalho {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    z-index: 1000;
+}
+
 section {
     padding: 0 100px;
 }
