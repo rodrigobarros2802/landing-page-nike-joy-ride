@@ -22,6 +22,14 @@ header {
     z-index: 1000;
 }
 
+.cabecalho .logo {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
 section {
     padding: 0 100px;
 }
