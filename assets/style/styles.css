@@ -11,16 +11,17 @@
 }
 
 header {
-    padding: 40px 100px;
+    padding: 20px 100px;
 }
 
 .cabecalho {
-    position: absolute;
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
     z-index: 1000;
+    backdrop-filter: blur(20px);
 }
 
 .cabecalho .logo {
