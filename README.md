@@ -75,7 +75,7 @@
 <p align="center"><img src=""></p>
 
 <h1 align="center">:link: Links</h1>
-<h3 align="center">Deploy Vercel - https://landing-page-nike-joy-ride.vercel.app](https://landing-page-nike-joy-ride-p3jo.vercel.app/</h3>
+<h3 align="center">Deploy Vercel - https://landing-page-nike-joy-ride-p3jo-mrqo8c4xl-rodrigobarros2802.vercel.app/</h3>
 
 <h1 align="center">:technologist: Autor</h1>
 <h3 align="center">LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/</h3>
