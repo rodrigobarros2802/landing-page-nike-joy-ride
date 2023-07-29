@@ -181,3 +181,21 @@ section .about {
     margin-top: 20px;
 }
 
+.depoiments {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #FFF6DA;
+}
+
+.depoiments-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 100px 0;
+}
