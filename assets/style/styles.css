@@ -442,4 +442,28 @@ footer {
         max-width: 300px;
     }
 
+    .about-card-box {
+        width: 350px;
+    }
+
+    .about-card-box p {
+        font-size: 14px;
+    }
+
+    .depoiments-athlets .depoiments-athlets-box {
+        width: 350px;
+    }
+
+    .contact-box h2 {
+        font-size: 18px;
+    }
+
+    .contact-box p {
+        max-width: 300px;
+        font-size: 14px;
+    }
+
+    footer {
+        padding: 40px 75px;
+    }
 }
