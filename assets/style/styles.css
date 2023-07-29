@@ -240,6 +240,14 @@ section .about {
     text-align: center;
 }
 
+.athlets {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
 .depoiments-athlets-box img {
     position: relative;
 }
