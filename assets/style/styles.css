@@ -341,3 +341,11 @@ footer {
     padding: 40px 100px;
 }
 
+.footer-box img {
+    margin-bottom: 30px;
+}
+
+.footer-box p {
+    font-size: 16px;
+}
+
