@@ -395,7 +395,7 @@ footer {
     }
 
     .img-box img {
-        max-width: 400px;
+        max-width: 250px;
     }
 
     .about-text h3 {
@@ -413,8 +413,16 @@ footer {
 }
 
 @media (max-width: 991px) {
+    .cabecalho {
+        position: fixed;
+    }
+
     .nav {
         visibility: hidden;
+    }
+
+    .text-box {
+        margin-top: 90px;
     }
 
     .text-box h1 {
@@ -430,7 +438,7 @@ footer {
     }
 
     .img-box img {
-        max-width: 300px;
+        max-width: 250px;
     }
 
     .about-text {
@@ -443,7 +451,7 @@ footer {
     }
 
     .about-card-box {
-        width: 350px;
+        width: 320px;
     }
 
     .about-card-box p {
@@ -451,7 +459,7 @@ footer {
     }
 
     .depoiments-athlets .depoiments-athlets-box {
-        width: 350px;
+        width: 320px;
     }
 
     .contact-box h2 {
@@ -465,5 +473,9 @@ footer {
 
     footer {
         padding: 40px 75px;
+    }
+
+    .footer-box p {
+        font-size: 15px;
     }
 }
