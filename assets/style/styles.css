@@ -349,3 +349,65 @@ footer {
     font-size: 16px;
 }
 
+
+@media (max-width: 1307px) {
+    .about-card {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .about-card-box {
+        margin: 20px 0;
+    }
+}
+
+@media (max-width: 1040px) {
+    header {
+        padding: 10px 20px;
+    }
+
+    .cabecalho {
+        text-align: center;
+        width: 100%;
+    }
+
+    .banner {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .text-box {
+        margin-top: 40px;
+    }
+
+    .text-box h1 {
+        font-size: 2em;
+    }
+
+    .img-box {
+        margin-top: 80px;
+    }
+
+    .img-box img {
+        max-width: 400px;
+    }
+
+    .about-text h3 {
+        font-size: 20px;
+    }
+
+    .depoiments-athlets {
+        flex-direction: column;
+    }
+
+    footer {
+        justify-content: center;
+        text-align: center;
+    }
+}
