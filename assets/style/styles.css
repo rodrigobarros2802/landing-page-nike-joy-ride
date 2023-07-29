@@ -208,3 +208,33 @@ section .about {
 .depoiments-content span {
     color: #FC6B3F;
 }
+
+.depoiments-athlets {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.depoiments-athlets .depoiments-athlets-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    background: #FFF;
+    margin-inline: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid #FC6B3F;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+
+.depoiments-athlets-box p {
+    font-size: 14px;
+    font-weight: 500;
+}
