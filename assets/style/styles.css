@@ -413,5 +413,28 @@ footer {
 }
 
 @media (max-width: 991px) {
-    
+    .nav {
+        visibility: hidden;
+    }
+
+    .text-box h1 {
+        font-size: 1.5em;
+    }
+
+    .circle {
+        display: flex;
+    }
+
+    .text-box .btn {
+        margin-top: 30px;
+    }
+
+    .img-box img {
+        max-width: 300px;
+    }
+
+    .about-img img {
+        max-width: 300px;
+    }
+
 }
