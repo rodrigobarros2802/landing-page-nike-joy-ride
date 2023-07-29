@@ -285,5 +285,47 @@ section .about {
     border-radius: 10px;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 22px;
-    margin: 30px 0 0 0;
+    margin: 30px 0 30px 0;
+}
+
+.contact {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #FFF6DA;
+}
+
+.contact .contact-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 80px 0;
+}
+
+.contact-box h2 {
+    margin-top: 15px;
+}
+
+.contact-box p {
+    font-weight: 500;
+    margin: 15px 0;
+    max-width: 500px;
+}
+
+.contact-box a {
+    background: #FC6B3F;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    margin: 30px 0 30px 0;
+    gap: 20px;
 }
