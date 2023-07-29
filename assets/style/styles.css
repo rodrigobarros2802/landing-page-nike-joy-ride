@@ -256,5 +256,34 @@ section .about {
     position: relative;
     color: #727272;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 16px;
+}
+
+.add-cart {
+    background: #FFF6DA;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.add-cart .add-cart-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.add-cart-box a {
+    background: #FC6B3F;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    margin: 30px 0 0 0;
 }
