@@ -10,10 +10,6 @@
     scroll-behavior: smooth;
 }
 
-header {
-    padding: 20px 100px;
-}
-
 .cabecalho {
     position: fixed;
     display: flex;
@@ -22,6 +18,7 @@ header {
     width: 100%;
     z-index: 1000;
     backdrop-filter: blur(20px);
+    padding: 20px 100px;
 }
 
 .cabecalho .logo {
@@ -415,9 +412,27 @@ footer {
 @media (max-width: 991px) {
     .cabecalho {
         position: fixed;
+        padding: 10px 10px;
+        left: 0;
+        top: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .toggle {
+        background: url(/assets/img/menu.png);
+        width: 30px;
+        height: 30px;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: 30px;
+        cursor: pointer;
     }
 
     .nav {
+        display: none;
         visibility: hidden;
     }
 
@@ -446,6 +461,11 @@ footer {
         width: 100%;
     }
 
+    .about-text h3 {
+        font-size: 16px;
+        padding: 0 5px;
+    }
+
     .about-img img {
         max-width: 300px;
     }
@@ -456,6 +476,10 @@ footer {
 
     .about-card-box p {
         font-size: 14px;
+    }
+
+    .depoiments {
+        overflow: hidden;
     }
 
     .depoiments-athlets .depoiments-athlets-box {
