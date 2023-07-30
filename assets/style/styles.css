@@ -413,12 +413,10 @@ footer {
     .cabecalho {
         position: fixed;
         padding: 10px 10px;
-        left: 0;
-        top: 0;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        width: 100%;
+    }
+
+    header ul {
+        display: none;
     }
 
     .toggle {
@@ -442,9 +440,23 @@ footer {
         transition: 0.5s;
     }
 
+    header ul.nav.active {
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        background: #FC6B3F;
+        z-index: 10;
+        flex-direction: column;
+    }
+
     .nav {
         display: none;
-        visibility: hidden;
+        
     }
 
     .text-box {
