@@ -429,6 +429,17 @@ footer {
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
+        transition: 0.5s;
+    }
+
+    .toggle.active {
+        background: url(/assets/img/close1.png);
+        width: 30px;
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+        transition: 0.5s;
     }
 
     .nav {
