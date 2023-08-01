@@ -16,10 +16,10 @@
 * [:technologist: Autor]()
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<h3 align="center"></h3>
+<h3 align="center">Criar uma Landing Page </h3>
 
 <h1 align="center">:trophy: Desafio</h1>
-<h3 align="center"></h3>
+<h3 align="center">Meu maior desafio foi o meu maior aprendizado que foi o uso das medias queries, sempre tive dificuldade em aplicar responsividade aos meus projetos, mas agora é algo que faz mais sentido para mim.</h3>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
 <h3 align="center">JavaScript</h3>
@@ -27,13 +27,13 @@
 <h3 align="center">CSS3</h3>
 
 <h1 align="center">:dart: Objetivo</h1>
-<h3 align="center"></h3>
+<h3 align="center">Desenvolver uma página completa com section, scroll menu, responsividade.</h3>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<h3 align="center"></h3>
+<h3 align="center">O meu maior aprendizado nesse projeto foi me dispor das media queries e aplicar responsividade no meu projeto sem o auxilio de exemplo nenhum, foi bastante complicado mas conseguir concluir.</h3>
 
 <div align="center">
-<img align="center" src="/assets/img/aprendizado-png">
+<img align="center" src="/assets/img/aprendizado.png">
 </div>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
