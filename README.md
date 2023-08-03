@@ -16,7 +16,7 @@
 * [:technologist: Autor]()
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<h3 align="center">Criar uma Landing Page </h3>
+<h3 align="center">Ter como modelo e fazer a página idêntica sem exemplo e sem o suporte de nenhum código, usando toda a experiência adquirida durante o meu aprendizado. </h3>
 
 <h1 align="center">:trophy: Desafio</h1>
 <h3 align="center">Meu maior desafio foi o meu maior aprendizado que foi o uso das medias queries, sempre tive dificuldade em aplicar responsividade aos meus projetos, mas agora é algo que faz mais sentido para mim.</h3>
