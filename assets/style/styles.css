@@ -339,6 +339,18 @@ footer {
     font-size: 16px;
 }
 
+footer .btn-inicio i {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    background: yellow;
+    z-index: 1;
+    filter: invert(1);
+}
+
 
 @media (max-width: 1307px) {
     .about-card {
